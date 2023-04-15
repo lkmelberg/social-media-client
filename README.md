@@ -28,7 +28,6 @@ Project default and workflow branches are protected by the following rules:
    1. Code Review
    2. E2E tests
    3. Unit test
-   4. Deploy(This only applies to the default/master branch)
 3. Require conversation resolution before merging
 4. Do not allow bypassing the above settings
 
