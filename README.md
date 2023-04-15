@@ -1,11 +1,15 @@
 # Workflow course assignment
 
-Badges show status of workflow branch
+E2E testing, Unit testing, and Code review show status badges from workflow branch
 [![Automated E2E Testing](https://github.com/lkmelberg/social-media-client/actions/workflows/e2e-test.yml/badge.svg?branch=workflow)](https://github.com/lkmelberg/social-media-client/actions/workflows/e2e-test.yml)
 
 [![Automated Unit Testing](https://github.com/lkmelberg/social-media-client/actions/workflows/unit-test.yml/badge.svg?branch=workflow)](https://github.com/lkmelberg/social-media-client/actions/workflows/unit-test.yml)
 
-[![Code Review](https://github.com/lkmelberg/social-media-client/actions/workflows/gpt.yml/badge.svg?branch=workflow)](https://github.com/lkmelberg/social-media-client/actions/workflows/gpt.yml)
+[![Code Review](https://github.com/lkmelberg/social-media-client/actions/workflows/gpt.yml/badge.svg)](https://github.com/lkmelberg/social-media-client/actions/workflows/gpt.yml)
+
+Deploy shows status badge from default branch as project is configured to build and deploy to pages on merge to default branch.
+
+[![Deploy static content to pages](https://github.com/lkmelberg/social-media-client/actions/workflows/pages.yml/badge.svg)](https://github.com/lkmelberg/social-media-client/actions/workflows/pages.yml)
 
 # How to get started with your local development:
 
